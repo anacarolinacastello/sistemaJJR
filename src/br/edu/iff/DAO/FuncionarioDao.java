@@ -7,8 +7,8 @@ import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.List;
 
+import br.edu.iff.Conexao.ConexaoUtil;
 import br.edu.iff.model.Funcionario;
-import br.edu.iff.projetoJJR.ConexaoUtil;
 
 
 

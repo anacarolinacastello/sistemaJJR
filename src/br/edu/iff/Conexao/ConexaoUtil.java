@@ -1,4 +1,4 @@
-package br.edu.iff.projetoJJR;
+package br.edu.iff.Conexao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -21,7 +21,7 @@ public class ConexaoUtil {
 			
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			
-			return DriverManager.getConnection("jdbc:mysql://localhost:3306/jjr?useTimezone=true&serverTimezone=UTC","root","2526");
+			return DriverManager.getConnection("jdbc:mysql://localhost:3306/jjr?useTimezone=true&serverTimezone=UTC","root","");
 		
 		
 		}

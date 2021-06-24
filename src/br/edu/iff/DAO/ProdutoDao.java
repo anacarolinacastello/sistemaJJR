@@ -6,8 +6,8 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
 
+import br.edu.iff.Conexao.ConexaoUtil;
 import br.edu.iff.model.Produto;
-import br.edu.iff.projetoJJR.ConexaoUtil;
 
 
 
