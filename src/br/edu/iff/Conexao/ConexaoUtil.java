@@ -1,4 +1,4 @@
-package br.edu.iff.Conexao;
+package br.edu.iff.conexao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
